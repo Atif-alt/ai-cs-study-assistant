@@ -1,0 +1,6 @@
+{
+  "name": "AI CS Study Assistant",
+  "description": "An interactive study assistant for Computer Science students. It helps with Computer Networks, programming concepts, and coding interview preparation with customized learning paths.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
