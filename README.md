@@ -22,7 +22,7 @@ An AI-powered Computer Science Study Assistant built using Google AI Studio, Gem
 
 ## Live Demo
 
-Paste your Cloud Run URL here
+[Paste your Cloud Run URL here](https://ai-cs-study-assistant-936210848602.asia-southeast1.run.app)
 
 ## GitHub Repository
 
