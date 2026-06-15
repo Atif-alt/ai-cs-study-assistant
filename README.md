@@ -1,20 +1,45 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# AI CS Study Assistant
 
-# Run and deploy your AI Studio app
+An AI-powered Computer Science Study Assistant built using Google AI Studio, Gemini, React, TypeScript, and Google Cloud Run.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/967579cc-aae7-4a61-9e96-18f74753224a
+- Computer Networks assistance
+- Algorithms explanations
+- Technical interview preparation
+- Interactive study sessions
+- AI-powered chat support
+- Responsive web interface
 
-## Run Locally
+## Technologies Used
 
-**Prerequisites:**  Node.js
+- Google AI Studio
+- Gemini 3.5 Flash
+- React
+- TypeScript
+- Vite
+- Google Cloud Run
 
+## Live Demo
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Paste your Cloud Run URL here
+
+## GitHub Repository
+
+https://github.com/Atif-alt/ai-cs-study-assistant
+
+## Project Highlights
+
+This application helps Computer Science students learn:
+- Computer Networks
+- Algorithms
+- Technical Interview Concepts
+- Engineering Fundamentals
+
+The project was created as part of the Kaggle + Google "5-Day AI Agents: Intensive Vibe Coding Course".
+
+## Author
+
+MD Atifuddin
+
+GitHub: https://github.com/Atif-alt
